@@ -13,7 +13,7 @@ septembre 2026.
 - 🔑 [password-strength-checker](https://github.com/roda-jawad-fadel/password-strength-checker) — analyse de la robustesse des mots de passe par entropie de Shannon
 
 **Compétences**
-Python · Linux · Réseaux (TCP/IP) · Cryptographie · SQL · Bash
+Python · Java · C · Linux · Réseaux (TCP/IP) · Cryptographie · SQL · Bash
 
 **Me contacter**
 [LinkedIn](www.linkedin.com/in/roda-jawad-fadel-a89069256) · rodajawad12@gmail.com
