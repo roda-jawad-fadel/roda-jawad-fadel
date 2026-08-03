@@ -16,4 +16,4 @@ septembre 2026.
 Python · Java · C · Linux · Réseaux (TCP/IP) · Cryptographie · SQL · Bash
 
 **Me contacter**
-[LinkedIn](www.linkedin.com/in/roda-jawad-fadel-a89069256) · rodajawad12@gmail.com
+[LinkedIn](https://www.linkedin.com/in/roda-jawad-fadel-a89069256) · rodajawad12@gmail.com
